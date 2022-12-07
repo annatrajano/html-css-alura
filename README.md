@@ -39,8 +39,6 @@ Certificado            |
 
 ## Habilidades Desenvolvidas
 
-Nestes exercícios, aprimorei as seguintes habilidades:
-
  - Ultilizar TAGS semânticas e bem estruturadas em HTML;
  - Estruturar o layout da página e implementar destaques visuais, como fontes e tamanhos no CSS ;
 
