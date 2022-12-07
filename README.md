@@ -8,6 +8,27 @@ O layout com o resultado final pode ser visto a seguir!
 
 ## Layout
 
+Home Page - Header           |         Home Page - Main Section            |   
+:-------------------------:|:-------------------------:|
+![Screeshot](./img/1.png)  |![Screeshot](./img/2.png)  |
+
+
+Home Page - Main Section           |         Home Page - Footer           |   
+:-------------------------:|:-------------------------:|
+![Screeshot](./img/3.png)  |![Screeshot](./img/4.png)  |
+
+
+
+Products Page           |        Contact Page           |   
+:-------------------------:|:-------------------------:|
+![Screeshot](./img/5.png)  |![Screeshot](./img/6.png)  |
+
+
+
+## Link para Deploy
+
+[Barbearia Alura](https://html-css-alura-553a.vercel.app/)<br>
+
 
 ## Certificado
 
