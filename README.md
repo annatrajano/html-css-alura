@@ -13,7 +13,7 @@ O layout com o resultado final pode ser visto a seguir!
 
 Certificado            |         
 :-------------------------:|
-![Screeshot](./img/certificate.png)  |
+![Screeshot](./img/certificate.pdf)  |
 
 
 ## Habilidades Desenvolvidas
